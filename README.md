@@ -2,28 +2,19 @@
 
 ![Microsoft Azure - Chmura Obliczeniowa - SOLIDEXPERT](https://solidexpert.com/wp-content/uploads/2018/08/microsoft-azurev2.png)
 
-<img src="https://cdn0.iconfinder.com/data/icons/very-basic-2-android-l-lollipop-icon-pack/24/plus-512.png" alt="Plus icon" style="zoom:15%;" />
-
-
-
-<img src="https://miro.medium.com/max/452/1*8vOzJ9dU9HO_ahf4E_ab8Q.png" alt="img" style="zoom: 50%;" />
-
-
-
-<img src="https://www.flaticon.com/svg/static/icons/svg/56/56751.svg" alt="Free icon download | Equal" style="zoom:5%;" />
-
-![Artificial Intelligence isn't dangerous, though BIAS in AI is.](https://gabrielamueller.com/wp-content/uploads/2019/01/gabriela-mueller-artifitcial-intelligence-2000.jpg)
+<img src="https://cdn0.iconfinder.com/data/icons/very-basic-2-android-l-lollipop-icon-pack/24/plus-512.png" alt="Plus icon" style="zoom:5%;" /> <img src="https://miro.medium.com/max/452/1*8vOzJ9dU9HO_ahf4E_ab8Q.png" alt="img" style="zoom: 10%;" />
+<img src="https://www.flaticon.com/svg/static/icons/svg/56/56751.svg" alt="Free icon download | Equal" style="zoom:5%;" /> ![Artificial Intelligence isn't dangerous, though BIAS in AI is.](https://gabrielamueller.com/wp-content/uploads/2019/01/gabriela-mueller-artifitcial-intelligence-2000.jpg)
 
 
 
 ## Aplikacje i rozwiązania oparte o Sztuczną Inteligencję na Microsoft Azure
 
-[<img src="https://image.flaticon.com/icons/png/512/1/1204.png" alt="Click on me" style="zoom:25%;" />](https://github.com/ekote/AI-on-Microsoft-Azure/tree/main/advanced-mgr)
+[<img src="https://image.flaticon.com/icons/png/512/1/1204.png" alt="Click on me" style="zoom:5%;" />](https://github.com/ekote/AI-on-Microsoft-Azure/tree/main/advanced-mgr)
 
 
 
 ## Wprowadzenie do aplikacji i rozwiązań opartych o Sztuczną Inteligencję i Microsoft Azure
-[<img src="https://image.flaticon.com/icons/png/512/1/1204.png" alt="Click on me" style="zoom:25%;" />](https://github.com/ekote/AI-on-Microsoft-Azure/tree/main/intro-inz)
+[<img src="https://image.flaticon.com/icons/png/512/1/1204.png" alt="Click on me" style="zoom:5%;" />](https://github.com/ekote/AI-on-Microsoft-Azure/tree/main/intro-inz)
 
 
 
