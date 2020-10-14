@@ -2,8 +2,7 @@
 
 ![Microsoft Azure - Chmura Obliczeniowa - SOLIDEXPERT](https://solidexpert.com/wp-content/uploads/2018/08/microsoft-azurev2.png)
 
-<img src="https://cdn0.iconfinder.com/data/icons/very-basic-2-android-l-lollipop-icon-pack/24/plus-512.png" alt="Plus icon" style="zoom:5%;" /> <img src="https://miro.medium.com/max/452/1*8vOzJ9dU9HO_ahf4E_ab8Q.png" alt="img" style="zoom: 10%;" />
-<img src="https://www.flaticon.com/svg/static/icons/svg/56/56751.svg" alt="Free icon download | Equal" style="zoom:5%;" /> ![Artificial Intelligence isn't dangerous, though BIAS in AI is.](https://gabrielamueller.com/wp-content/uploads/2019/01/gabriela-mueller-artifitcial-intelligence-2000.jpg)
+![Artificial Intelligence isn't dangerous, though BIAS in AI is.](https://gabrielamueller.com/wp-content/uploads/2019/01/gabriela-mueller-artifitcial-intelligence-2000.jpg)
 
 
 
