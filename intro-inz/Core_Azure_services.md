@@ -10,7 +10,7 @@
 
 Podstawą będzie zrozumienie jak są budowane datacenters. Tutaj Mark Russinovich - CTO od Azura wyjaśnia. 
 
-[![Inside Azure datacenter architecture with Mark Russinovich](https://medius.studios.ms/video/asset/THUMBNAIL/B19-BRK3060?v=fd44debf50eb7819526783423d1eba3bef7235c1d6c04fc7e716cd984e4d2186)](https://azure.microsoft.com/en-us/resources/videos/build-2019-inside-azure-datacenter-architecture-with-mark-russinovich/?WT.mc_id=AZ-MVP-5003556) 
+Wideo do obejrzenia[![Inside Azure datacenter architecture with Mark Russinovich](https://medius.studios.ms/video/asset/THUMBNAIL/B19-BRK3060?v=fd44debf50eb7819526783423d1eba3bef7235c1d6c04fc7e716cd984e4d2186)](https://azure.microsoft.com/en-us/resources/videos/build-2019-inside-azure-datacenter-architecture-with-mark-russinovich/?WT.mc_id=AZ-MVP-5003556) 
 
 
 
@@ -36,11 +36,12 @@ Bardzo dobre nagrania, wyjaśniające kluczowe koncepty cloud computingu jak i s
 
 ![Azure Launches Availability Zones in GA, Catching Up to Rivals | Data  Center Knowledge](https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/azure-availability-zones_0.jpg)
 
+- Wideo do obejrzenia
 
-
-[![](http://img.youtube.com/vi/C-nNw1mGwzE/0.jpg)](http://www.youtube.com/watch?v=C-nNw1mGwzE "")
+  [![](http://img.youtube.com/vi/C-nNw1mGwzE/0.jpg)](http://www.youtube.com/watch?v=C-nNw1mGwzE "")
 
 - Sprawdźcie do którego datacenter macie najbliżej - http://azurespeedtest.azurewebsites.net/ - i o czym mówi "latency"
+
 - koniecznie do przerobienia - https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/ - zrozumienie rozłożenia datacenter, regionów, availability zones, parowania regionów i SLA jest kluczowe w pracy z Azure i będzie dużo pytań o to na AZ-900. 
 
 
@@ -59,9 +60,11 @@ Bardzo dobre nagrania, wyjaśniające kluczowe koncepty cloud computingu jak i s
 
 
 
-Zasoby grupujemy w Resource Groups. Zasoby tworzą architektury. Możemy eksportować definicję zasobu w postaci definicji JSON, tak by później przy zastosowaniu praktych DevOps automatyzować stawianie zasobów.  
+Zasoby grupujemy w Resource Groups. Zasoby tworzą architektury. Możemy eksportować definicję zasobu w postaci definicji JSON, tak by później przy zastosowaniu praktych DevOps automatyzować stawianie zasobów.
 
-[![](http://img.youtube.com/vi/gIhf-S7BCdo/0.jpg)](http://www.youtube.com/watch?v=gIhf-S7BCdo "")
+Wideo do obejrzenia: 
+
+​	[![](http://img.youtube.com/vi/gIhf-S7BCdo/0.jpg)](http://www.youtube.com/watch?v=gIhf-S7BCdo "")
 
 - więcej o automatyzacji https://youtu.be/Ge_Sp-1lWZ4
 
@@ -73,9 +76,9 @@ Mówi się, że podstawową jednostką na chmurze jest wirtualna maszyna - Virtu
 
 ![Azure Content Spotlight - Virtual Machine Serial Console (Preview) -  Microsoft Tech Community](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/74074i8F8354A1CD037772)
 
+Wideo do obejrzenia:
 
-
- [![](http://img.youtube.com/vi/inaXkN2UrFE/0.jpg)](http://www.youtube.com/watch?v=inaXkN2UrFE "")
+​	 [![](http://img.youtube.com/vi/inaXkN2UrFE/0.jpg)](http://www.youtube.com/watch?v=inaXkN2UrFE "")
 
 - do przerobienia materiał na microsoft learn https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/
 
@@ -85,7 +88,11 @@ Mówi się, że podstawową jednostką na chmurze jest wirtualna maszyna - Virtu
 
 ## 7 Azure Networking Services: Virtual Network (VNet), Load Balancer, VPN Gateway, Application Gateway, Content Delivery Network (CDN)
 
-[![](http://img.youtube.com/vi/5NMcM4zJPM4/0.jpg)](http://www.youtube.com/watch?v=5NMcM4zJPM4 "")
+Wideo do obejrzenia: 
+
+​	[![](http://img.youtube.com/vi/5NMcM4zJPM4/0.jpg)](http://www.youtube.com/watch?v=5NMcM4zJPM4 "")
+
+
 
 ![What Are Azure Virtual Networks | Aidan Finn, IT Pro](https://acomdpsstorage.blob.core.windows.net/dpsmedia-prod/azure.microsoft.com/en-us/documentation/articles/virtual-networks-overview/20150915062503/figure02.png)
 
@@ -110,21 +117,23 @@ Jeśli VMka jest podstawową "jednostką" computingu na Azure, to jaki serwis b�
 
 ![Managing and implementing Azure storage – DB Cloud TECH](https://mostafaelmasry.files.wordpress.com/2020/03/azure-storage.png?w=712)
 
-Kluczowe nagranie z perspektywy tworzenia jakichkolwiek aplikacji na Azure. 
+Kluczowe nagranie z perspektywy tworzenia jakichkolwiek aplikacji na Azure. Wideo do obejrzenia:
 
-[![](http://img.youtube.com/vi/_Qlkvd4ZQuo/0.jpg)](http://www.youtube.com/watch?v=_Qlkvd4ZQuo "")
+​	[![](http://img.youtube.com/vi/_Qlkvd4ZQuo/0.jpg)](http://www.youtube.com/watch?v=_Qlkvd4ZQuo "")
 
 
 
-[![](http://img.youtube.com/vi/UzTtastcBsk/0.jpg)](http://www.youtube.com/watch?v=UzTtastcBsk "")
+Wideo do obejrzenia:
+
+​	[![](http://img.youtube.com/vi/UzTtastcBsk/0.jpg)](http://www.youtube.com/watch?v=UzTtastcBsk "")
 
 
 
 ![What's new in Azure Data Lake Storage Gen2](https://www.mssqltips.com/tipimages2/5986_whats-new-azure-data-lake-storage-generation-2.010.png)
 
+Wideo do obejrzenia:
 
-
-[![](http://img.youtube.com/vi/2uSkjBEwwq0/0.jpg)](http://www.youtube.com/watch?v=2uSkjBEwwq0 "")
+​	[![](http://img.youtube.com/vi/2uSkjBEwwq0/0.jpg)](http://www.youtube.com/watch?v=2uSkjBEwwq0 "")
 
 
 
@@ -136,7 +145,9 @@ Kluczowe nagranie z perspektywy tworzenia jakichkolwiek aplikacji na Azure.
 
 Pliki możemy trzymać na Blobie, ale czego użyć, gdy potrzebna jest baza relacyjna lub dokumentowa?
 
-[![](http://img.youtube.com/vi/RqD4nMyBazU/0.jpg)](http://www.youtube.com/watch?v=RqD4nMyBazU "")
+Wideo do obejrzenia:
+
+​	[![](http://img.youtube.com/vi/RqD4nMyBazU/0.jpg)](http://www.youtube.com/watch?v=RqD4nMyBazU "")
 
 - do przeczytania dokumentacja pomagająca zrozumieć kiedy jaki serwis użyć do przetrzymywania danych https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/3-how-azure-storage-meets-your-business-storage-needs
 
@@ -150,15 +161,19 @@ Pliki możemy trzymać na Blobie, ale czego użyć, gdy potrzebna jest baza rela
 
 ![Processar dados de veículos em tempo real com a IoT - Azure Architecture  Center | Microsoft Docs](https://docs.microsoft.com/azure/architecture/example-scenario/data/media/architecture-realtime-analytics-vehicle-data1.png)
 
+Wideo do obejrzenia:
 
-
-[![](http://img.youtube.com/vi/RHkqFxJWhr8/0.jpg)](http://www.youtube.com/watch?v=RHkqFxJWhr8 "")
+​	[![](http://img.youtube.com/vi/RHkqFxJWhr8/0.jpg)](http://www.youtube.com/watch?v=RHkqFxJWhr8 "")
 
 
 
 ## 11 Azure Big Data and Analytics
 
-[![](http://img.youtube.com/vi/JUQXx0R0RfE/0.jpg)](http://www.youtube.com/watch?v=JUQXx0R0RfE "")
+Wideo do obejrzenia:
+
+​	[![](http://img.youtube.com/vi/JUQXx0R0RfE/0.jpg)](http://www.youtube.com/watch?v=JUQXx0R0RfE "")
+
+
 
 
 
@@ -180,9 +195,9 @@ Dlaczego Azure Synapse to przyszłość?
 
 ![Installing Azure ML Estimator Dependencies from Remote GitHub Branches | by  Aaron (Ari) Bornstein | Microsoft Azure | Medium](https://miro.medium.com/max/3032/1*mrMYpVE62e5_a-Uy1I389g.png)
 
-To wstęp do tematów, które będą poruszane po części przygotowawczej do AZ-900, czyli do AI i ML-a. Koniecznie należy zrozumieć co robi Azure Machine Learning i jak z niego korzystać. 
+To wstęp do tematów, które będą poruszane po części przygotowawczej do AZ-900, czyli do AI i ML-a. Koniecznie należy zrozumieć co robi Azure Machine Learning i jak z niego korzystać. Wideo do obejrzenia:
 
-[![](http://img.youtube.com/vi/8aMzR8iaB9s/0.jpg)](http://www.youtube.com/watch?v=8aMzR8iaB9s "")
+​	[![](http://img.youtube.com/vi/8aMzR8iaB9s/0.jpg)](http://www.youtube.com/watch?v=8aMzR8iaB9s "")
 
 ![GitHub - Azure/MachineLearningNotebooks: Python notebooks with ML and deep  learning examples with Azure Machine Learning | Microsoft](https://raw.githubusercontent.com/MicrosoftDocs/azure-docs/master/articles/machine-learning/media/concept-azure-machine-learning-architecture/workflow.png)
 
@@ -192,9 +207,9 @@ To wstęp do tematów, które będą poruszane po części przygotowawczej do AZ
 
 ## 13 Azure Serverless Computing
 
-Jeśli chcemy uruchomić funkcję albo zbudować flow funkcji to nie musimy iść w toporne narzędzia uruchamiane w kontenerach lub na VMkach. Od tego jest serverless computing i kilka usług jakie daje Azure. Szczególnie polecam zapoznać się z Azure Functions i Azure Logic Apps.
+Jeśli chcemy uruchomić funkcję albo zbudować flow funkcji to nie musimy iść w toporne narzędzia uruchamiane w kontenerach lub na VMkach. Od tego jest serverless computing i kilka usług jakie daje Azure. Szczególnie polecam zapoznać się z Azure Functions i Azure Logic Apps. Wideo do obejrzenia:
 
-[![](http://img.youtube.com/vi/ansa4M7iTmg/0.jpg)](http://www.youtube.com/watch?v=ansa4M7iTmg "")
+​	[![](http://img.youtube.com/vi/ansa4M7iTmg/0.jpg)](http://www.youtube.com/watch?v=ansa4M7iTmg "")
 
 
 
@@ -214,7 +229,9 @@ Przykłady architektur:
 
 Jeśli korzystaliście z Jenkins, Teamcity, Travis CI czy innego narzędzia pozwalającego na budowanie i deployment aplikacji na dane środowisko, to użycie Azure DevOps będzie dla Was banalne. W tej części skupiamy się właśnie na serwisie Azure DevOps i jego możliwościach, które z jednej strony pozwolą na  przetrzymywanie (repozytorium) kodu, zarządzanie pracą zespołu i ticketami (JIRA), a z drugiej na budowanie pipelines do testowania i releases aplikacji.  
 
-[![](http://img.youtube.com/vi/8M4DN9hjAeY/0.jpg)](http://www.youtube.com/watch?v=8M4DN9hjAeY "")
+Wideo do obejrzenia:
+
+​	[![](http://img.youtube.com/vi/8M4DN9hjAeY/0.jpg)](http://www.youtube.com/watch?v=8M4DN9hjAeY "")
 
 
 
@@ -230,7 +247,7 @@ Jeśli korzystaliście z Jenkins, Teamcity, Travis CI czy innego narzędzia pozw
 
 
 
-AZ-900 daje solidne podstawy i otwiera drogę do wszystkich specjalizacji w Microsoft Azure.  
+AZ-900 daje solidne podstawy i otwiera drogę do  
 
 ![Exam AZ-304: Microsoft Azure Architect Design | Testprep Training](https://www.testpreptraining.com/tutorial/wp-content/uploads/2020/07/Azure_Certification_Path1.png)
 
