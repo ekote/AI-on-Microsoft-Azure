@@ -1,4 +1,4 @@
-# Laboratorium Bot na Azure
+# Laboratorium `Bot` na Microsoft Azure
 
 
 
@@ -28,9 +28,13 @@ Dla każdego serwisu, należy sporządzić notatkę, składającą się z trzech
 ## Część praktyczna
 
 - Sprawozdanie/raport zawierające
+  - scenariusz / use case dla którego zrealizowaliście bota
   - wykonane przez Was kroki do zbudowania bota
-  - kod niezbędny do zreprodukowania Waszego bota
-- Video na YouTube (public/unlisted) z **demo** waszego bota
+  - architekturę Waszego bota
+  - kod + dane niezbędne do zreprodukowania Waszego bota (tę część proszę tworzyć z myślą, że za rok/dwa dostaniecie zlecenie za 20k $ na stworzenie takiego bota w trzy dni :) )
+- Video na YouTube (public/unlisted) z **demo / pitch demo** waszego bota (około 3 do 5 minut) i Waszym komentarzem:
+  - Jaki problem rozwiązuje Was bot (scenariusz)
+  - Na czym polega rozwiązanie i jak działa
 
 
 
@@ -56,10 +60,13 @@ To są propozycje. Jeśli są inne pomysły to proszę o kontakt mailowy. Inne p
 
 ## Deadlines
 
-- 04.11 10:00 - Repo i część teoretyczna z zakresu `Evaluate text with Azure Cognitive Language Services` 
+- 04.11 10:00 - Repo i część teoretyczna z zakresu `Evaluate text with Azure Cognitive Language Services` - nazwa w formularzu **Azure Cognitive Language Services**   
+- 13.11 10:00 - część teoretyczna z zakresu `Create Intelligent Bots with the Azure Bot Service` -  nazwa w formularzu **Azure Bot Service**
+- 18.11 10:00 - część teoretyczna z zakresu `Process and Translate Speech with Azure Cognitive Speech Services`  oraz wykonana **część praktyczna** -  nazwa w formularzu **Bot**
 
-- 13.11 10:00 - część teoretyczna z zakresu `Create Intelligent Bots with the Azure Bot Service` 
 
-- 18.11 10:00 - część teoretyczna z zakresu `Process and Translate Speech with Azure Cognitive Speech Services`  oraz wykonana **część praktyczna**
 
-  
+Link do formularza przez który zgłaszacie zrealizowanie danej części laboratorium: https://bit.ly/2HzNDuy
+
+<iframe width="640px" height= "680px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2HGbTcuFSdMqgZ87fvARORUME9SV0NTMUJOVkFDUDQ1SURLUlZJOUtPWC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe> 
+
