@@ -33,6 +33,15 @@ Wykład 15h + 15h laboratorium - termin środowy
 #### Nagrania
 
 1. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/14-10-2020.mkv
+2. 
+
+
+
+#### Azure Pass (50$)
+
+https://github.com/ekote/AI-on-Microsoft-Azure/blob/main/advanced-mgr/Azure-Pass.md
+
+
 
 
 
@@ -59,6 +68,9 @@ Typ zajęć:
 
 ### Partnerzy i ich projekty
 
+- Semantive
+- Lingaro
+- EY
 - 
 
 

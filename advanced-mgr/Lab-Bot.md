@@ -67,6 +67,3 @@ To są propozycje. Jeśli są inne pomysły to proszę o kontakt mailowy. Inne p
 
 
 Link do formularza przez który zgłaszacie zrealizowanie danej części laboratorium: https://bit.ly/2HzNDuy
-
-<iframe width="640px" height= "680px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2HGbTcuFSdMqgZ87fvARORUME9SV0NTMUJOVkFDUDQ1SURLUlZJOUtPWC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe> 
-
