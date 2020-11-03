@@ -16,9 +16,9 @@ Wykład 15h + 15h laboratorium - termin środowy
 | pre  | 06.10 | -                                                  |                                                              |                                                              | \- obejrzeć https://www.youtube.com/watch?v=Y3nR0pp4PiA<br/>\- założyć konto na youtube oraz github<br/>\- zainstalować ulubiony program do nagrywania ekranu (np. mój Logitech Capture)<br/>\- przejrzeć usług z kolumny “AI + Machine Learning” ze strony https://azurecharts.com/overview |
 | 1    | 14.10 | Regulamin i organizacja zajęć. <br>Wstęp do Azure. |                                                              | - Nagrania video o serwisach Azure https://channel9.msdn.com/Shows/Azure-Friday <br> - ARM templates deployment https://docs.microsoft.com/pl-pl/azure/azure-resource-manager/templates/deploy-github-actions <br> - Azure Architecture Center https://docs.microsoft.com/pl-pl/azure/architecture/ <br>- Framework jak projektować  rozwiązania na Azure - Well-Architected https://docs.microsoft.com/pl-pl/azure/architecture/framework/ <br> | - https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-solutions/ <br> |
 | 2    | 21.10 | Introduction to AI; Machine Learning               |                                                              | https://github.com/ekote/AI-on-Microsoft-Azure/blob/main/advanced-mgr/AI_ML.md |                                                              |
-| 3    | 28.10 |                                                    | Evaluate text with Azure Cognitive Language Services         | https://github.com/ekote/AI-on-Microsoft-Azure/blob/main/advanced-mgr/Lab-Bot.md | https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/ |
-| 4    | 04.11 |                                                    | Create Intelligent Bots with the Azure Bot Service           |                                                              | 1. https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-service/ |
-| 5    | 13.11 |                                                    | Process and Translate Speech with Azure Cognitive Speech Services |                                                              | https://docs.microsoft.com/en-us/learn/paths/process-translate-speech-azure-cognitive-speech-services/ |
+| 3    | 28.10 |                                                    | Evaluate text with Azure Cognitive Language Services (5p sprawozdanie) | https://github.com/ekote/AI-on-Microsoft-Azure/blob/main/advanced-mgr/Lab-Bot.md | https://docs.microsoft.com/en-us/learn/paths/evaluate-text-with-language-services/ |
+| 4    | 04.11 |                                                    | Create Intelligent Bots with the Azure Bot Service (5p sprawozdanie) | ![img](https://i.ytimg.com/an_webp/ZMhT9bRj_Ow/mqdefault_6s.webp?du=3000&sqp=CIyfhv0F&rs=AOn4CLBEPFw07FnYxgyZRjP_Qu96oIJrRw) | - https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-service/ </br> - https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/ |
+| 5    | 13.11 |                                                    | Process and Translate Speech with Azure Cognitive Speech Services (5p sprawozdanie; 25p projekt koncowy) |                                                              | https://docs.microsoft.com/en-us/learn/paths/process-translate-speech-azure-cognitive-speech-services/ |
 | 6    | 18.11 | Computer Vision                                    |                                                              |                                                              |                                                              |
 | 7    | 25.11 |                                                    | Process and classify images with the Azure Cognitive Vision Services |                                                              | https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/ |
 | 8    | 02.12 |                                                    | Explore computer vision in Microsoft Azure                   |                                                              | https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/ |
@@ -71,7 +71,7 @@ Typ zajęć:
 - Semantive
 - Lingaro
 - EY
-- 
+- PKO BP
 
 
 
@@ -88,7 +88,8 @@ Typ zajęć:
 ### Laboratorium 30%
 
 - uczestnictwo obowiązkowe
-- sprawozdania z ćwiczeń
+- sprawozdania z ćwiczeń - 5p
+- każdy pojedynczy projekt końcowy - 25p
 
 
 
