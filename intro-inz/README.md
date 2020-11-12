@@ -18,11 +18,11 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 | 2    | 22.10 | W2 - Core Azure services                                     | https://github.com/ekote/AI-on-Microsoft-Azure/blob/main/intro-inz/Core_Azure_services.md |
 | 3    | 29.10 | W3 - Security, privacy, compliance, and trust                | https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/  <br> https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/ <br> https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/ <br> |
 | 4    | 05.11 | W4 - Azure pricing and support                               | https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/ |
-| 5    | 12.11 | P1 - Przedstawienie projektów.                               |                                                              |
-| 6    | 19.11 | W5 - Wprowadzenie do AI na Azure                             |                                                              |
-| 7    | 26.11 | P2 - w grupach - zaprezentowanie zespołu, przedstawienie architektury projektu i tworzonych artefaktów |                                                              |
-| 8    | 03.12 | W6  - wybrany przez studentów temat (Conversational AI, AI Services, Machine Learning, Autonomous Systems, Responsible AI) |                                                              |
-| 9    | 10.12 | P3 - check-point                                             |                                                              |
+| 5    | 12.11 | P1 - Przedstawienie projektów. <br> W5 - Wprowadzenie do AI na Azure |                                                              |
+| 6    | 19.11 |                                                              |                                                              |
+| 7    | 26.11 | P2 - w grupach - zaprezentowanie zespołu, przedstawienie architektury projektu i tworzonych artefaktów <br> **kartkówka 1/2** |                                                              |
+| 8    | 03.12 | W6  - wybrany przez studentów temat (Conversational AI, AI Services, Machine Learning, Autonomous Systems, Responsible AI)<br> **Special guests!!!!** <br> Jarek Tkocz (Member of the Board \| Chief Data Science Officer) and Adam Staszczyk (Team Leader \| Senior Data Scientist) at 3Soft - 1h session <br> |                                                              |
+| 9    | 10.12 | P3 - check-point <br/> **kartkówka 2/2**                     |                                                              |
 | 10   | 17.12 | Egzamin                                                      |                                                              |
 | 11   | 07.01 | P4 - check-point                                             |                                                              |
 | 12   | 14.12 | P5                                                           |                                                              |
@@ -59,7 +59,11 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 
 ### Partnerzy i ich projekty
 
-- 
+- PKO BP - 2 projekty 
+- Lingaro - 2 projekty
+- EY - 3 projekty
+- Semantive - 1 projekt
+- Microsoft - 3 projekty
 
 
 
