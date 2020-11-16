@@ -73,6 +73,51 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 
 
 
+### wejściówki/zejściówki  
+
+#### 1/2
+
+Scope:
+
+- [Cloud Concepts - Principles of cloud computing](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/)
+- [Core Cloud Services - Introduction to Azure](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
+- [Core Cloud Services - Azure architecture and service guarantees](https://docs.microsoft.com/en-us/learn/modules/explore-azure-infrastructure/)
+- [Core Cloud Services - Manage services with the Azure portal](https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/)
+- [Core Cloud Services - Azure compute options](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/)
+- [Core Cloud Services - Azure data storage options](https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/)
+- [Core Cloud Services - Azure networking options](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/)
+
+
+
+#### 2/2
+
+Scope:
+
+- [Security, responsibility, and trust in Azure](https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/)
+- [Apply and monitor infrastructure standards with Azure Policy](https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/)
+- [Control and organize Azure resources with Azure Resource Manager](https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/)
+- [Predict costs and optimize spending for Azure](https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/)
+- [CAF](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
+
+
+
+Na wejściówkach/zejściówkach pytania będą całkowicie nawiązywać do treści z powyższych linków (bez niespodzianek).
+
+
+
+### Egzamin
+
+Scope:
+
+- wszystko to co na wejściówkach/zejściówkach;
+- [Azure Fundamentals part 1: Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+- [Azure Fundamentals part 2: Describe core Azure services](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
+- [Azure Fundamentals part 3: Describe core solutions and management tools on Azure](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+- [Azure Fundamentals part 4: Describe general security and network security features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
+- [Azure Fundamentals part 5: Describe identity, governance, privacy, and compliance features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
+
+
+
 ## Zasady zaliczenia przedmiotu
 
 ### Wykład 50%
