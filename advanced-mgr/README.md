@@ -33,7 +33,8 @@ Wykład 15h + 15h laboratorium - termin środowy
 #### Nagrania
 
 1. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/14-10-2020.mkv
-2. 
+2. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/04-11-2020.mkv
+3. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/13-11-2020.mkv
 
 
 

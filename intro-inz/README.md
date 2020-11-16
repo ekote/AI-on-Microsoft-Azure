@@ -33,6 +33,12 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 
 1. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/15-10-2020.mkv
 
+2. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/29-10-2020.mkv
+
+3. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/05-11-2020.mkv
+
+4. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/12-11-2020.mkv
+
    
 
 #### Harmonogram - https://www.pw.edu.pl/Studenci/Zycie-studenckie/Harmonogram-roku-akademickiego-2020-2021 
