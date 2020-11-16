@@ -18,7 +18,7 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 | 2    | 22.10 | W2 - Core Azure services                                     | https://github.com/ekote/AI-on-Microsoft-Azure/blob/main/intro-inz/Core_Azure_services.md |
 | 3    | 29.10 | W3 - Security, privacy, compliance, and trust                | https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/  <br> https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/ <br> https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/ <br> |
 | 4    | 05.11 | W4 - Azure pricing and support                               | https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/ |
-| 5    | 12.11 | P1 - Przedstawienie projektów. <br> W5 - Wprowadzenie do AI na Azure |                                                              |
+| 5    | 12.11 | P1 - Przedstawienie projektów. <br>W5 - Wprowadzenie do AI na Azure |                                                              |
 | 6    | 19.11 |                                                              |                                                              |
 | 7    | 26.11 | P2 - w grupach - zaprezentowanie zespołu, przedstawienie architektury projektu i tworzonych artefaktów <br> **kartkówka 1/2** |                                                              |
 | 8    | 03.12 | W6  - wybrany przez studentów temat (Conversational AI, AI Services, Machine Learning, Autonomous Systems, Responsible AI)<br> **Special guests!!!!** <br> Jarek Tkocz (Member of the Board \| Chief Data Science Officer) and Adam Staszczyk (Team Leader \| Senior Data Scientist) at 3Soft - 1h session <br> |                                                              |
@@ -33,11 +33,11 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 
 1. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/15-10-2020.mkv
 
-2. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/29-10-2020.mkv
+2. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/29-10-2020.mp4
 
-3. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/05-11-2020.mkv
+3. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/05-11-2020.mp4
 
-4. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/12-11-2020.mkv
+4. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/12-11-2020.mp4
 
    
 
