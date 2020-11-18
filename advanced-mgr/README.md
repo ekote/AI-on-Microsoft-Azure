@@ -20,10 +20,10 @@ Wykład 15h + 15h laboratorium - termin środowy
 | 4    | 04.11 |                                                    | Create Intelligent Bots with the Azure Bot Service (5p sprawozdanie) | - https://www.youtube.com/watch?v=ZMhT9bRj_Ow                | - https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-service/ <br> - https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/ |
 | 5    | 13.11 |                                                    | Process and Translate Speech with Azure Cognitive Speech Services (5p sprawozdanie; 25p projekt koncowy) |                                                              | https://docs.microsoft.com/en-us/learn/paths/process-translate-speech-azure-cognitive-speech-services/ |
 | 6    | 18.11 | Computer Vision                                    |                                                              |                                                              |                                                              |
-| 7    | 25.11 |                                                    | Process and classify images with the Azure Cognitive Vision Services |                                                              | https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/ |
-| 8    | 02.12 |                                                    | Explore computer vision in Microsoft Azure                   |                                                              | https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/ |
-| 9    | 09.12 |                                                    | Create machine learning models <br> **Special guests!!!!** <br> Kamil Folkert PhD, Member of the Board and Chief Technology Officer; Michal Bochenek, Head of Architecture at 3Soft - 1~1.5h |                                                              | https://docs.microsoft.com/en-us/learn/paths/create-machine-learn-models/ |
-| 10   | 16.12 | Natural Language Processing                        |                                                              |                                                              |                                                              |
+| 7    | 25.11 |                                                    | Process and classify images with the Azure Cognitive Vision Services <br/><br> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br><br> 1/3 od 9:30: Wprowadzenie do analizy strumieni danych (analiza szeregów czasowych) w czasie rzeczywistym na przykładach biznesowych |                                                              | https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/ |
+| 8    | 02.12 |                                                    | Explore computer vision in Microsoft Azure <br/><br/> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 2/3 od 9:30: Język zapytań KQL |                                                              | https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/ |
+| 9    | 09.12 |                                                    | Create machine learning models <br/><br>  **Special guests!!!!** <br/> Kamil Folkert PhD, Member of the Board and Chief Technology Officer; Michal Bochenek, Head of Architecture at 3Soft - 1~1.5h |                                                              | https://docs.microsoft.com/en-us/learn/paths/create-machine-learn-models/ |
+| 10   | 16.12 | Natural Language Processing                        | **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 3/3 od 9:30: Zaawansowane przypadki użycia serwisu Azure Data Explorer i Machine Learning |                                                              |                                                              |
 | 11   | 23.12 |                                                    | Explore natural language processing                          |                                                              | https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/ |
 | 12   | 13.01 | Conversational AI                                  |                                                              |                                                              |                                                              |
 | 13   | 20.01 |                                                    | Create no-code predictive models with Azure Machine Learning |                                                              | https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/ |
@@ -35,6 +35,7 @@ Wykład 15h + 15h laboratorium - termin środowy
 1. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/14-10-2020.mkv
 2. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/04-11-2020.mp4
 3. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/13-11-2020.mp4
+4. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/18-11-2020.mp4
 
 
 
@@ -81,8 +82,8 @@ Typ zajęć:
 ### Wykład 30%
 
 - uczestnictwo nieobowiązkowe
-- 2 wejściówki/zejściówki po 5p na 5 i 11 zajęciach
-- egzamin za 40p (obowiązkowy)
+- ~~2 wejściówki/zejściówki po 5p na 5 i 11 zajęciach~~
+- egzamin za 50p (obowiązkowy)
 
 
 
