@@ -18,15 +18,15 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 | 2    | 22.10 | W2 - Core Azure services                                     | https://github.com/ekote/AI-on-Microsoft-Azure/blob/main/intro-inz/Core_Azure_services.md |
 | 3    | 29.10 | W3 - Security, privacy, compliance, and trust                | https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/  <br> https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/ <br> https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/ <br> |
 | 4    | 05.11 | W4 - Azure pricing and support                               | https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/ |
-| 5    | 12.11 | P1 - Przedstawienie projektów. <br>W5 - Wprowadzenie do AI na Azure |                                                              |
-| 6    | 19.11 |                                                              |                                                              |
-| 7    | 26.11 | P2 - w grupach - zaprezentowanie zespołu, przedstawienie architektury projektu i tworzonych artefaktów <br> **kartkówka 1/2** |                                                              |
-| 8    | 03.12 | W6  - wybrany przez studentów temat (Conversational AI, AI Services, Machine Learning, Autonomous Systems, Responsible AI)<br> **Special guests!!!!** <br> Jarek Tkocz (Member of the Board \| Chief Data Science Officer) and Adam Staszczyk (Team Leader \| Senior Data Scientist) at 3Soft - 1h session <br> |                                                              |
-| 9    | 10.12 | P3 - check-point <br/> **kartkówka 2/2**                     |                                                              |
+| 5    | 12.11 | W5 - Wprowadzenie do AI na Azure                             |                                                              |
+| 6    | 19.11 | Spotkanie organizacyjne i Q&A <br>P1 - Przedstawienie projektów. <br/> | https://github.com/ekote/AI-on-Microsoft-Azure/blob/main/intro-inz/Projekt.md |
+| 7    | 26.11 | P2 - w grupach - zaprezentowanie zespołu, przedstawienie architektury projektu i tworzonych artefaktów <br> **kartkówka 1/2** **<u>o 16:15 start</u>** |                                                              |
+| 8    | 03.12 | ~~W6  - wybrany przez studentów temat (Conversational AI, AI Services, Machine Learning, Autonomous Systems, Responsible AI)~~<br> <br> **Special guests!!!!** <br> Jarek Tkocz (Member of the Board \| Chief Data Science Officer) and Adam Staszczyk (Team Leader \| Senior Data Scientist) at 3Soft - 1h session <br> <br> Sesja Q&A do projektu / czas na projekt |                                                              |
+| 9    | 10.12 | P3 - check-point <br/> <br/> **Special guests!!!!** <br/>Waldemar Skrzypiec (CSA w Microsoft) - Well-architected - teoria i praktyka projektowania ussług w Azure <br/> <br/> <br/> **krótka kartkówka 2/2** |                                                              |
 | 10   | 17.12 | Egzamin                                                      |                                                              |
-| 11   | 07.01 | P4 - check-point <br> <br/> **Special guests!!!!** <br><br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 1/3 od 17:00: Wprowadzenie do analizy strumieni danych (analiza szeregów czasowych) w czasie rzeczywistym na przykładach biznesowych |                                                              |
-| 12   | 14.12 | P5 <br/><br/> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 2/3 od 17:00: Język zapytań KQL |                                                              |
-| 13   | 21.01 | P6 - check-point <br> <br> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 3/3 od 17:00: Zaawansowane przypadki użycia serwisu Azure Data Explorer i Machine Learning |                                                              |
+| 11   | 07.01 | P4  <br> **Special guests!!!!** <br/><br>16:15 Pamela Krzypkowska (ATS w Microsoft) - Demo Azure Machine Learning i projekty realizowane przez Pamele z użyciem AML-a <br> <br> <br/><br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 1/3 od 17:00: Wprowadzenie do analizy strumieni danych (analiza szeregów czasowych) w czasie rzeczywistym na przykładach biznesowych |                                                              |
+| 12   | 14.01 | P5 - middle-check point <br/><br/> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 2/3 od 17:00: Język zapytań KQL |                                                              |
+| 13   | 21.01 | P6 <br> <br> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 3/3 od 17:00: Zaawansowane przypadki użycia serwisu Azure Data Explorer i Machine Learning |                                                              |
 | 14   | 28.01 | P7 - prezentacja projektów                                   |                                                              |
 |      | 28.01 | Wystawienie ocen                                             |                                                              |
 #### Nagrania
@@ -65,7 +65,7 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 
 ### Partnerzy i ich projekty
 
-- PKO BP - 2 projekty 
+- PKO Leasing - 1 projekt
 - Lingaro - 2 projekty
 - EY - 3 projekty
 - Semantive - 1 projekt
@@ -103,6 +103,8 @@ Scope:
 
 Na wejściówkach/zejściówkach pytania będą całkowicie nawiązywać do treści z powyższych linków (bez niespodzianek).
 
+**Azure pass: https://bit.ly/2II4RX1 ** 
+
 
 
 ### Egzamin
@@ -130,8 +132,22 @@ Scope:
 
 ### Projekt 50%
 
-- uczestnictwo obowiązkowe w czasie tzw. 'check-point'
-- Punkty cząstkowe w trakcie tzw. 'check-point' (pull-request do głównego repozytorium, oceniane kto ile dodaje)
-- Ocena końcowa projektu
-  - Nagranie video prezentującego projekt
-  - obrona projektu w czasie sesji Q&A 
+*Poniżej rozpisałam, co będę oceniała*
+
+- uczestnictwo obowiązkowe w czasie tzw. 'check-point'  -  **max 10p** 
+  - Punkty cząstkowe w trakcie tzw. 'check-point' (pull-request do głównego repozytorium, oceniane kto ile dodaje) - **indywidualne 5p do zdobycia => 2 spotkania check-point/middle check-point * 5p = 10p max**
+    - [ ] w zależności od realizowanego tematu oceniany będzie wkład/zaangażowanie studenta w projekt w skali 0-5
+- końcowy projekt-  - **max 80p**
+  - Punkty zespołowe - **max 45p** 
+    - [ ] Nagranie video na youtube (public / unlisted) prezentujące zrealizowany projekt (max 3 minuty)   - **max 10p** 
+    - [ ] Repozytorium - **max 5p** 
+    - [ ] Dokumentacja zawierająca  - **max 10p** 
+      - [ ] spis funkcjonalności w realizowanym rozwiązaniu
+      - [ ] diagram architektury o opisem dobranych komponentów
+      - [ ] instrukcję reprodukcji rozwiązania 
+    - [ ] ocena dojrzałości rozwiązania (czy działa, czy jest skończone, czy użyte technologie są zaawansowane, czy użyto serwisów PaaS czy np. wszystko jest na VMkach)  - **max 5p** 
+    - [ ] obrona projektu w czasie sesji Q&A i ocena rówieśników  - **max 10p** 
+    - [ ] indywidualna ocena Product Ownera  - **max 5p** 
+  - Punkty indywidualne - **max 35p**
+    - przyznawane przez prowadzącą w porozumieniu z osobą w foli Product Ownerem z firmy zewnętrznej, za całość pracy nad projektem - **max 20p**
+    - [ ] przyznawane jawnie przez członków zespołu - **max 15p**
