@@ -82,6 +82,6 @@ To są propozycje. Jeśli są inne pomysły to proszę o kontakt mailowy. Inne p
 
 ## Deadlines - jeden
 
-- 18.11 10:00 - część teoretyczna z zakresu `XX`  oraz wykonana **część praktyczna**
+- XX.YY 10:00 - część teoretyczna z zakresu `XX`  oraz wykonana **część praktyczna**
 
 Link do formularza przez który zgłaszacie zrealizowanie tego zadania laboratorium: https://bit.ly/2HzNDuy
