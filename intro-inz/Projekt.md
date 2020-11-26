@@ -30,23 +30,23 @@
       - Ocena końcowa na podstaiwe atefaktów i systematycznej pracy 
       - dokumentacja w .md
 
-| Nr grupy | Nr tematyczny | Imię i  nazwisko lidera/liderki grupy projektowej | Nazwa realizowanego projektu                                 |
-| -------- | ------------- | ------------------------------------------------- | ------------------------------------------------------------ |
-| 1        | alfa          | Mateusz  Karwowski                                | Cognitive Services, OCR on Azure                             |
-| 2        | alfa          | Anna  Pręgowska                                   | Microsoft: OCR on Azure (Cognitive  Services, Form Recognizer, OCR) |
-| 3        | alfa          | Mateusz  Smoliński                                | Microsoft: OCR on Azure (Cognitive  Services, Form Recognizer, OCR) |
-| 4        | alfa          | Ivan  Prakapets                                   | Microsoft: Custom Vision vs Own Model  for object detection  |
-| 5        | alfa          | Bartłomiej  Zadrożny                              | Buffalo Project - e-Waha                                     |
-| 6        | beta          | Kacper  Jarczak                                   | EY - Aspect based sentiment analysis                         |
-| 7        | beta          | Kamil  Kowieski                                   | EY - Aspect based sentiment analysis                         |
-| 8        | beta          | Monika Osiak                                      | EY - Aspect based sentiment analysis                         |
-| 9        | beta          | Szymon Męcina                                     | EY - Aspect based sentiment analysis                         |
-| 10       | beta          | Mateusz  Kalata                                   | EY - Document semantic search                                |
-| 11       | beta          | Uladzislau  Starastsenka                          | EY - Document semantic search                                |
-| 12       | beta          | Karol  Adameczek                                  | EY - Text generation                                         |
-| 13       | gamma         | Paweł Skiba                                       | Lingaro - znalezienie elementów  interaktywnych na stronie www |
-| 14       | gamma         | Patryk  Piętka                                    | Lingaro -  Serverless real-time document similarity engine using Python and Azure  Functions |
-| 15       | delta         | Maciej  Czarkowski                                | Semantive - Knowledge Mining with  Cognitive Services        |
+| Nr grupy | Nr tematyczny | Imię i  nazwisko lidera/liderki grupy projektowej | Nazwa realizowanego projektu                                 | Repo link |
+| -------- | ------------- | ------------------------------------------------- | ------------------------------------------------------------ | --------- |
+| 1        | alfa          | Mateusz  Karwowski                                | Cognitive Services, OCR on Azure                             |           |
+| 2        | alfa          | Anna  Pręgowska                                   | Microsoft: OCR on Azure (Cognitive  Services, Form Recognizer, OCR) |           |
+| 3        | alfa          | Mateusz  Smoliński                                | Microsoft: OCR on Azure (Cognitive  Services, Form Recognizer, OCR) |           |
+| 4        | alfa          | Ivan  Prakapets                                   | Microsoft: Custom Vision vs Own Model  for object detection  |           |
+| 5        | alfa          | Bartłomiej  Zadrożny                              | Buffalo Project - e-Waha                                     |           |
+| 6        | beta          | Kacper  Jarczak                                   | EY - Aspect based sentiment analysis                         |           |
+| 7        | beta          | Kamil  Kowieski                                   | EY - Aspect based sentiment analysis                         |           |
+| 8        | beta          | Monika Osiak                                      | EY - Aspect based sentiment analysis                         |           |
+| 9        | beta          | Szymon Męcina                                     | EY - Aspect based sentiment analysis                         |           |
+| 10       | beta          | Mateusz  Kalata                                   | EY - Document semantic search                                |           |
+| 11       | beta          | Uladzislau  Starastsenka                          | EY - Document semantic search                                |           |
+| 12       | beta          | Karol  Adameczek                                  | EY - Text generation                                         |           |
+| 13       | gamma         | Paweł Skiba                                       | Lingaro - znalezienie elementów  interaktywnych na stronie www |           |
+| 14       | gamma         | Patryk  Piętka                                    | Lingaro -  Serverless real-time document similarity engine using Python and Azure  Functions |           |
+| 15       | delta         | Maciej  Czarkowski                                | Semantive - Knowledge Mining with  Cognitive Services        |           |
 
 
 
