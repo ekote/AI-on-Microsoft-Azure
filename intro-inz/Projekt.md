@@ -46,7 +46,7 @@
 | 12       | beta          | Karol  Adameczek                                  | EY - Text generation                                         |           |
 | 13       | gamma         | Paweł Skiba                                       | Lingaro - znalezienie elementów  interaktywnych na stronie www |           |
 | 14       | gamma         | Patryk  Piętka                                    | Lingaro -  Serverless real-time document similarity engine using Python and Azure  Functions |           |
-| 15       | delta         | Maciej  Czarkowski                                | Semantive - Knowledge Mining with  Cognitive Services        |           |
+| 15       | delta         | Maciej  Czarkowski                                | Semantive - Knowledge Mining with  Cognitive Services        |   https://github.com/azureWUT/semantiveOnAzure        |
 
 
 
