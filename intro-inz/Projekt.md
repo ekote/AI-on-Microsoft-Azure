@@ -40,7 +40,7 @@
 | 6        | beta          | Kacper  Jarczak                                   | EY - Aspect based sentiment analysis                         |           |
 | 7        | beta          | Kamil  Kowieski                                   | EY - Aspect based sentiment analysis                         |           |
 | 8        | beta          | Monika Osiak                                      | EY - Aspect based sentiment analysis                         |           |
-| 9        | beta          | Szymon Męcina                                     | EY - Aspect based sentiment analysis                         |           |
+| 9        | beta          | Szymon Męcina                                     | EY - Aspect based sentiment analysis                         | https://github.com/aksloms/Azure-Twitter-Sentiment-Analysis |
 | 10       | beta          | Mateusz  Kalata                                   | EY - Document semantic search                                |           |
 | 11       | beta          | Uladzislau  Starastsenka                          | EY - Document semantic search                                |           |
 | 12       | beta          | Karol  Adameczek                                  | EY - Text generation                                         |           |
