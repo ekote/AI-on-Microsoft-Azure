@@ -69,8 +69,8 @@
 Kolejność omawiania:
 
 1. delta 16:30
-2. gamma 16:45
-3. beta 17:15
+2. beta 16:45
+3. gamma 17:15
 4. alfa 17:30
 
 
