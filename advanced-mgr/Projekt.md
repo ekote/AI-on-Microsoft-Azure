@@ -1,6 +1,8 @@
-# Projekt
+# **Projekt**
 
 
+
+## Grupy 
 
 | Nr grupy | Project lead                    | Grupa   | Project name                                                 | Repo link |
 | -------- | ------------------------------- | ------- | ------------------------------------------------------------ | --------- |
@@ -17,5 +19,28 @@
 | 11       | Michał Chęciński                | delta   | Semantive -  Knowledge Mining with Cognitive Services        |           |
 | 12       | Malwina Kubas                   | delta   | Semantive -  Knowledge Mining with Cognitive Services        |           |
 
+## Harmonogram i organizacja
+
+blok: 5h lekcyjne (5 x 45' ciągiem) 
+
+| No   | Typ zajęć |                           Temat                           |
+| ---- | :-------: | :-------------------------------------------------------: |
+| 1    |   blok    |            Przygotowanie pierwszych artefaktów            |
+| 2    |   blok    | **Przedstawienie projektu Product Ownerom - obowiązkowe** |
+| 3    |   blok    |                    prace nad projektem                    |
+| 4    |   blok    |      **Obowiązkowy Check-point z Product Ownerami**       |
+| 5    |   blok    |                    prace nad projektem                    |
+| 6    |   blok    |               Prezentacje projektów. Oceny.               |
 
 
+
+### Artefakty
+
+- [ ] Repozytorium (public)
+- [ ] Opis projektu
+- [ ] Przedstawienie zespołu z zlinkowaniem osoby do jej/jego konta na GitHub
+- [ ] Opisu funkcjonalności (- co będziecie realizować)
+- [ ] Schemat działania rozwiązania
+- [ ] Architektura (diagram) (- jakie serwisy Azurowe wybierzenie)
+- [ ] Wybrany stos technologiczny (- jakie inne technologie użyjecie)
+- [ ] Rozpiska zadań do zrealizowania oraz przypisanie osoby odpowiedzialnej za dane zadanie (- jakie zadania będą realizowane, przez kogo i kiedy)

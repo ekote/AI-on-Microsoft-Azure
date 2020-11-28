@@ -20,14 +20,14 @@ Wykład 15h + 15h laboratorium - termin środowy
 | 4    | 04.11 |                                                              | Create Intelligent Bots with the Azure Bot Service (5p sprawozdanie) | - https://www.youtube.com/watch?v=ZMhT9bRj_Ow                | - https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-service/ <br> - https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/ |
 | 5    | 13.11 |                                                              | Process and Translate Speech with Azure Cognitive Speech Services (5p sprawozdanie; 25p projekt koncowy) |                                                              | https://docs.microsoft.com/en-us/learn/paths/process-translate-speech-azure-cognitive-speech-services/ |
 | 6    | 18.11 | Computer Vision                                              |                                                              |                                                              |                                                              |
-| 7    | 25.11 |                                                              | Process and classify images with the Azure Cognitive Vision Services <br/><br> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br><br> 1/3 od 9:30: Wprowadzenie do analizy strumieni danych (analiza szeregów czasowych) w czasie rzeczywistym na przykładach biznesowych |                                                              | https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/ |
-| 8    | 02.12 |                                                              | Explore computer vision in Microsoft Azure <br/><br/> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 2/3 od 9:30: Język zapytań KQL |                                                              | https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/ |
-| 9    | 09.12 |                                                              | Create machine learning models <br/><br>  **Special guests!!!!** <br/> Kamil Folkert PhD, Member of the Board and Chief Technology Officer; Michal Bochenek, Head of Architecture at 3Soft - 1~1.5h |                                                              | https://docs.microsoft.com/en-us/learn/paths/create-machine-learn-models/ |
-| 10   | 16.12 | Natural Language Processing                                  | **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 3/3 od 9:30: Zaawansowane przypadki użycia serwisu Azure Data Explorer i Machine Learning |                                                              |                                                              |
-| 11   | 23.12 |                                                              | Explore natural language processing                          |                                                              | https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/ |
+| 7    | 25.11 |                                                              | Process and classify images with the Azure Cognitive Vision Services - Projekt #2 1/4 <br/><br> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br><br> 1/3 od 9:30: Wprowadzenie do analizy strumieni danych (analiza szeregów czasowych) w czasie rzeczywistym na przykładach biznesowych |                                                              | https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/ |
+| 8    | 02.12 |                                                              | Prace nad projektem #2 2/4 <br/> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 2/3 od 9:30: Język zapytań KQL |                                                              | Ten sam co ostatnio, czyli: https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/ |
+| 9    | 09.12 |                                                              | Prace nad projektem #2 3/4<br>  **Special guests!!!!** <br/> Kamil Folkert PhD, Member of the Board and Chief Technology Officer; Michal Bochenek, Head of Architecture at 3Soft - 1~1.5h |                                                              | Ten sam co ostatnio, czyli: https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/ |
+| 10   | 16.12 | Natural Language Processing                                  | Prace nad projektem #2 4/4 **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 3/3 od 9:30: Zaawansowane przypadki użycia serwisu Azure Data Explorer i Machine Learning |                                                              |                                                              |
+| 11   | 23.12 |                                                              | <br> Termin oddania projektu #2. <br> <br> Wyklad o Azure Machine Learning i AutoML - Create no-code predictive models with Azure Machine Learning <br> <br> Start mini-projektu #3 - **Azure Machine Learning** |                                                              | https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/ |
 | 12   | 13.01 | Conversational AI                                            | <br/><br/> **Special guests!!!!** <br/> 8:30 Waldemar Skrzypiec (CSA w Microsoft) - Well-architected - teoria i praktyka projektowania usług w Azure <br/> <br>   9:15 Pamela Krzypkowska (ATS w Microsoft) - Demo Azure Machine Learning i projekty realizowane przez Pamele z użyciem AML-a <br/> |                                                              |                                                              |
-| 13   | 20.01 | **IoT** <br> <br>Piotr Filarski (PTS w Microsoft) <Br> 1. Wprowadzenie – elementy/obszary rozwiązań IoT <br> 2. Projekt IoT ‘studencki’ a rozwiązanie komercyjne <br>3. IoT na chmurze czyli od PoC do rozwiązania produkcyjnego w jeden dzień <br> 4. Demo | Create no-code predictive models with Azure Machine Learning |                                                              | https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/ |
-| 14   | 27.01 | Egzamin                                                      |                                                              |                                                              |                                                              |
+| 13   | 20.01 | **IoT** <br> <br>Piotr Filarski (PTS w Microsoft) <Br> 1. Wprowadzenie – elementy/obszary rozwiązań IoT <br> 2. Projekt IoT ‘studencki’ a rozwiązanie komercyjne <br>3. IoT na chmurze czyli od PoC do rozwiązania produkcyjnego w jeden dzień <br> 4. Demo |                                                              |                                                              |                                                              |
+| 14   | 27.01 | Egzamin                                                      | Termin oddania mini-projektu #3 - Azure Machine Learning     |                                                              |                                                              |
 |      | 27.01 | Wystawienie ocen                                             |                                                              |                                                              |                                                              |
 
 #### Nagrania
@@ -49,24 +49,7 @@ https://github.com/ekote/AI-on-Microsoft-Azure/blob/main/advanced-mgr/Azure-Pass
 
 ## Projekt 30h
 
-Typ zajęć:
-
-- pojedynczy: 1h lekcyjna zajęć (45' zegarowe) 
-- blok: 4h lekcyjne (3h ciągiem) 
-
-| No        | Typ zajęć | Data        | Temat           |
-| --------  |:-------------:| :-------------: | :-------------: |
-| 1         | pojedynczy | TBD | Przegląd projektów. Prezentacje projektów. Podział na grupy i wybór projektów. |
-| 2        | blok       | TBD |            Przedstawienie architektury projektu.             |
-| 3         | blok | TBD | repo check (pull-request) |
-| 4         | blok | TBD | online Check |
-| 5         | blok | TBD | repo check (pull-request) |
-| 6         | blok | TBD | online Check |
-| 7         | blok | TBD | online Check |
-| 8      | blok | TBD | Prezentacje |
-| 9    | pojedynczy | TBD |                       Wystawienie ocen                       |
-
-
+Projekt.md
 
 ### Partnerzy i ich projekty
 
@@ -98,7 +81,6 @@ Typ zajęć:
 ### Projekt 40%
 
 - uczestnictwo obowiązkowe w czasie tzw. 'check-point'
-- Punkty cząstkowe w trakcie tzw. 'check-point' (pull-request do głównego repozytorium, oceniane kto ile dodaje)
 - Ocena końcowa projektu
   - Nagranie video prezentującego projekt
   - obrona projektu w czasie sesji Q&A 

@@ -93,11 +93,17 @@ Zespół musi uzyskać akceptację Product Ownera lub/i prowadzącej odnośnie d
 
 
 
+Reguły: 
+
+- uczestnicy mają mieć włączone kamerki - **obowiązkowo!**
+- **produktywne spotkanie - skorzystajcie z czasu Product Ownerów w najlepszy dla Was sposób**
+- rezultatem spotkania ma być akceptacja na scope realizowanego przez Was projektu
+
 
 
 # P4 
 
-termin na konsultacje dla chętnych; Będą osoby z zewnątrz na części wykładowej 
+termin na konsultacje dla chętnych; Będą osoby z zewnątrz na części wykładowej
 
 
 
