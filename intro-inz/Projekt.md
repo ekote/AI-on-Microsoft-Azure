@@ -30,23 +30,23 @@
       - Ocena końcowa na podstaiwe atefaktów i systematycznej pracy 
       - dokumentacja w .md
 
-| Nr grupy | Nr tematyczny | Imię i  nazwisko lidera/liderki grupy projektowej | Nazwa realizowanego projektu                                 | Repo link                                                    |
-| -------- | ------------- | ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1        | alfa          | Mateusz  Karwowski                                | Cognitive Services, OCR on Azure                             | https://github.com/mateo100/Cognitive-Services-App           |
-| 2        | alfa          | Anna  Pręgowska                                   | Microsoft: OCR on Azure (Cognitive  Services, Form Recognizer, OCR) | https://github.com/pregowskaanna/OCR-on-Azure.git            |
-| 3        | alfa          | Mateusz  Smoliński                                | Microsoft: OCR on Azure (Cognitive  Services, Form Recognizer, OCR) | https://github.com/matsmolinski/AI-on-Azure-OCR/blob/main/dokumentacja.md |
-| 4        | alfa          | Ivan  Prakapets                                   | Microsoft: Custom Vision vs Own Model  for object detection  | https://github.com/ispmor/azure-project                      |
-| 5        | alfa          | Bartłomiej  Zadrożny                              | Buffalo Project - e-Waha                                     | https://github.com/bzadrozny/e-waha                          |
-| 6        | beta          | Kacper  Jarczak                                   | EY - Aspect based sentiment analysis                         | https://github.com/kjarczak/EY-aspect-based-sentiment-analysis/blob/main/Projekt.md |
-| 7        | beta          | Kamil  Kowieski                                   | EY - Aspect based sentiment analysis                         | https://github.com/kmml1/EY_aspect_based_sentiment_analysis  |
-| 8        | beta          | Monika Osiak                                      | EY - Aspect based sentiment analysis                         | https://github.com/monika-osiak/azure-ml                     |
-| 9        | beta          | Szymon Męcina                                     | EY - Aspect based sentiment analysis                         | https://github.com/aksloms/Azure-Twitter-Sentiment-Analysis  |
-| 10       | beta          | Mateusz  Kalata                                   | EY - Document semantic search                                | https://github.com/MateuszKalata/AzureProject                |
-| 11       | beta          | Uladzislau  Starastsenka                          | EY - Document semantic search                                | https://github.com/VladStarostenko/Document-Semantic-Search  |
-| 12       | beta          | Karol  Adameczek                                  | EY - Text generation                                         | https://github.com/KarolAdameczek/SentenceCompletionAzure    |
-| 13       | gamma         | Paweł Skiba                                       | Lingaro - znalezienie elementów  interaktywnych na stronie www | https://github.com/pawellski/MS_AZURE_AI_WEB_SCRAPING        |
-| 14       | gamma         | Patryk  Piętka                                    | Lingaro -  Serverless real-time document similarity engine using Python and Azure  Functions | https://github.com/jeleniep/ServerlessRealTimeDocumentSimilarityEngineUsingPythonAndAzureFunctions |
-| 15       | delta         | Maciej  Czarkowski                                | Semantive - Knowledge Mining with  Cognitive Services        | https://github.com/azureWUT/semantiveOnAzure                 |
+| Nr grupy | Nr tematyczny | Imię i  nazwisko lidera/liderki grupy projektowej | Nazwa realizowanego projektu                                 | Repo link                                                    | Check 1/2 | Check 2/2 |
+| -------- | ------------- | ------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | --------- |
+| 1        | alfa          | Mateusz  Karwowski                                | Cognitive Services, OCR on Azure                             | https://github.com/mateo100/Cognitive-Services-App           |           |           |
+| 2        | alfa          | Anna  Pręgowska                                   | Microsoft: OCR on Azure (Cognitive  Services, Form Recognizer, OCR) | https://github.com/pregowskaanna/OCR-on-Azure.git            |           |           |
+| 3        | alfa          | Mateusz  Smoliński                                | Microsoft: OCR on Azure (Cognitive  Services, Form Recognizer, OCR) | https://github.com/matsmolinski/AI-on-Azure-OCR/blob/main/dokumentacja.md |           |           |
+| 4        | alfa          | Ivan  Prakapets                                   | Microsoft: Custom Vision vs Own Model  for object detection  | https://github.com/ispmor/azure-project                      |           |           |
+| 5        | alfa          | Bartłomiej  Zadrożny                              | Buffalo Project - e-Waha                                     | https://github.com/bzadrozny/e-waha                          |           |           |
+| 6        | beta          | Kacper  Jarczak                                   | EY - Aspect based sentiment analysis                         | https://github.com/kjarczak/EY-aspect-based-sentiment-analysis/blob/main/Projekt.md |           |           |
+| 7        | beta          | Kamil  Kowieski                                   | EY - Aspect based sentiment analysis                         | https://github.com/kmml1/EY_aspect_based_sentiment_analysis  |           |           |
+| 8        | beta          | Monika Osiak                                      | EY - Aspect based sentiment analysis                         | https://github.com/monika-osiak/azure-ml                     |           |           |
+| 9        | beta          | Szymon Męcina                                     | EY - Aspect based sentiment analysis                         | https://github.com/aksloms/Azure-Twitter-Sentiment-Analysis  |           |           |
+| 10       | beta          | Mateusz  Kalata                                   | EY - Document semantic search                                | https://github.com/MateuszKalata/AzureProject                |           |           |
+| 11       | beta          | Uladzislau  Starastsenka                          | EY - Document semantic search                                | https://github.com/VladStarostenko/Document-Semantic-Search  |           |           |
+| 12       | beta          | Karol  Adameczek                                  | EY - Text generation                                         | https://github.com/KarolAdameczek/SentenceCompletionAzure    |           |           |
+| 13       | gamma         | Paweł Skiba                                       | Lingaro - znalezienie elementów  interaktywnych na stronie www | https://github.com/pawellski/MS_AZURE_AI_WEB_SCRAPING        | x         |           |
+| 14       | gamma         | Patryk  Piętka                                    | Lingaro -  Serverless real-time document similarity engine using Python and Azure  Functions | https://github.com/jeleniep/ServerlessRealTimeDocumentSimilarityEngineUsingPythonAndAzureFunctions | x         |           |
+| 15       | delta         | Maciej  Czarkowski                                | Semantive - Knowledge Mining with  Cognitive Services        | https://github.com/azureWUT/semantiveOnAzure                 | x         |           |
 
 
 
