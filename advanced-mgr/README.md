@@ -50,15 +50,7 @@ https://github.com/ekote/AI-on-Microsoft-Azure/blob/main/advanced-mgr/Azure-Pass
 
 ## Projekt 30h
 
-Projekt.md
-
-### Partnerzy i ich projekty
-
-- Semantive
-- Lingaro
-- EY
-- PKO BP
-
+https://github.com/ekote/AI-on-Microsoft-Azure/blob/main/advanced-mgr/Projekt.md
 
 
 ## Zasady zaliczenia przedmiotu
