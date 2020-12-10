@@ -40,6 +40,8 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 
 4. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/12-11-2020.mp4
 
+5. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/10-12-2020.mp4
+
    
 
 #### Harmonogram - https://www.pw.edu.pl/Studenci/Zycie-studenckie/Harmonogram-roku-akademickiego-2020-2021 
@@ -63,16 +65,8 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
   - 13.11.2020 r. (piątek) odbędą się zajęcia zgodnie z planem zajęć w środę;
 
     
-
-### Partnerzy i ich projekty
-
-- PKO Leasing - 1 projekt
-- Lingaro - 2 projekty
-- EY - 3 projekty
-- Semantive - 1 projekt
-- Microsoft - 3 projekty
-
-
+    
+ 
 
 ### wejściówki/zejściówki  
 
