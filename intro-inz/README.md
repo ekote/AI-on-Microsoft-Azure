@@ -25,8 +25,8 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 |      |       | P3 - check-point indywidualne terminy                        |                                                              |
 | 9    | 10.12 | **Special guests!!!!** <br/>Waldemar Skrzypiec (CSA w Microsoft) - Well-architected - teoria i praktyka projektowania usług w Azure <br/> <br/> <br/> **krótka kartkówka 2/2** |                                                              |
 | 10   | 17.12 | Egzamin                                                      |                                                              |
-| 11   | 07.01 | P4  <br> **Special guests!!!!** <br/><br>16:15 Pamela Krzypkowska (ATS w Microsoft) - Demo Azure Machine Learning i projekty realizowane przez Pamele z użyciem AML-a <br> <br> <br/><br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 1/3 od 17:00: Wprowadzenie do analizy strumieni danych (analiza szeregów czasowych) w czasie rzeczywistym na przykładach biznesowych |                                                              |
-| 12   | 14.01 | P5 - middle-check point <br/><br/> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 2/3 od 17:00: Język zapytań KQL |                                                              |
+| 11   | 07.01 | P4  <br> **Special guests!!!!** <br/><br>16:15 Pamela Krzypkowska (ATS w Microsoft) - Demo Azure Machine Learning i projekty realizowane przez Pamele z użyciem AML-a <br> <br> <br/><br/>Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 1/3 od 17:00: Wprowadzenie do analizy strumieni danych (analiza szeregów czasowych) w czasie rzeczywistym na przykładach biznesowych |                                                              |
+| 12   | 14.01 | P5 - middle-check point <br/> <br> AML & Databricks - jeszcze raz! - Estera Kot <br/> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 2/3 od 17:00: Język zapytań KQL |                                                              |
 | 13   | 21.01 | P6 <br> <br> Radoslaw Osinski - Cosmosdb - intro i demo 16:15-17:00 <br> <br> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 3/3 od 17:00: Zaawansowane przypadki użycia serwisu Azure Data Explorer i Machine Learning |                                                              |
 | 14   | 28.01 | P7 - prezentacja projektów                                   |                                                              |
 |      | 28.01 | Wystawienie ocen                                             |                                                              |
@@ -66,7 +66,7 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 
     
     
- 
+
 
 ### wejściówki/zejściówki  
 
