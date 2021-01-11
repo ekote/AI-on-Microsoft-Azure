@@ -144,5 +144,5 @@ Scope:
     - [ ] obrona projektu w czasie sesji Q&A i ocena rówieśników  - **max 10p** 
     - [ ] indywidualna ocena Product Ownera  - **max 5p** 
   - Punkty indywidualne - **max 35p**
-    - przyznawane przez prowadzącą w porozumieniu z osobą w foli Product Ownerem z firmy zewnętrznej, za całość pracy nad projektem - **max 20p**
-    - [ ] przyznawane jawnie przez członków zespołu - **max 15p**
+    - przyznawane przez prowadzącą w porozumieniu z osobą w foli Product Ownerem z firmy zewnętrznej, za całość pracy nad projektem - ~~**max 20p**~~ **max 35p**
+    - [ ] ~~w projektach dla Microsoft - przyznawane jawnie przez członków zespołu - **max 15p**~~ - muszę zrezygnować z tego kryterium. ponieważ ostatnie spotkanie jest grupowe, a nie indywidualne i nie mam możliwości sprawiedliwego przeprowadzenia takiego głosowania. 
