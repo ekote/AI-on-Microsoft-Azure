@@ -72,8 +72,20 @@ https://github.com/ekote/AI-on-Microsoft-Azure/blob/main/advanced-mgr/Projekt.md
 
 
 ### Projekt 40%
-
-- uczestnictwo obowiązkowe w czasie tzw. 'check-point'
-- Ocena końcowa projektu
-  - Nagranie video prezentującego projekt
-  - obrona projektu w czasie sesji Q&A 
+  - uczestnictwo obowiązkowe w czasie tzw. 'check-point'  -  **max 10p** 
+  - Punkty cząstkowe w trakcie tzw. 'check-point' (pull-request do głównego repozytorium, oceniane kto ile dodaje) - **indywidualne 5p do zdobycia => 2 spotkania check-point/middle check-point * 5p = 10p max**
+    - [ ] w zależności od realizowanego tematu oceniany będzie wkład/zaangażowanie studenta w projekt w skali 0-5
+- końcowy projekt-  - **max 80p**
+  - Punkty zespołowe - **max 45p** 
+    - [ ] Nagranie video na youtube (public / unlisted) prezentujące zrealizowany projekt (max 3 minuty)   - **max 10p** 
+    - [ ] Repozytorium - **max 5p** 
+    - [ ] Dokumentacja zawierająca  - **max 10p** 
+      - [ ] spis funkcjonalności w realizowanym rozwiązaniu
+      - [ ] diagram architektury o opisem dobranych komponentów
+      - [ ] instrukcję reprodukcji rozwiązania 
+    - [ ] ocena dojrzałości rozwiązania (czy działa, czy jest skończone, czy użyte technologie są zaawansowane, czy użyto serwisów PaaS czy np. wszystko jest na VMkach)  - **max 5p** 
+    - [ ] obrona projektu w czasie sesji Q&A i ocena rówieśników  - **max 10p** 
+    - [ ] indywidualna ocena Product Ownera  - **max 5p** 
+  - Punkty indywidualne - **max 35p**
+    - przyznawane przez prowadzącą w porozumieniu z osobą w foli Product Ownerem z firmy zewnętrznej, za całość pracy nad projektem - **max 20p**
+    - [ ] przyznawane jawnie przez członków zespołu - **max 15p**
