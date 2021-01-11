@@ -84,7 +84,7 @@ https://github.com/ekote/AI-on-Microsoft-Azure/blob/main/advanced-mgr/Projekt.md
       - [ ] diagram architektury o opisem dobranych komponentów
       - [ ] instrukcję reprodukcji rozwiązania 
     - [ ] ocena dojrzałości rozwiązania (czy działa, czy jest skończone, czy użyte technologie są zaawansowane, czy użyto serwisów PaaS czy np. wszystko jest na VMkach)  - **max 5p** 
-    - [ ] obrona projektu w czasie sesji Q&A i ocena rówieśników  - **max 10p** 
+    - [ ] obrona projektu w czasie sesji Q&A - **max 10p** 
     - [ ] indywidualna ocena Product Ownera  - **max 5p** 
   - Punkty indywidualne - **max 35p**
     - przyznawane przez prowadzącą w porozumieniu z osobą w foli Product Ownerem z firmy zewnętrznej, za całość pracy nad projektem - **max 20p**
