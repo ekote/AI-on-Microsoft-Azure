@@ -42,6 +42,10 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 
 5. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/10-12-2020.mp4
 
+6. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-07-01-2021-AML-Pamela-Krzypkowska.mp4
+
+7. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-07-01-2021-Analiza-strumieni-danych-1.mp4
+
    
 
 #### Harmonogram - https://www.pw.edu.pl/Studenci/Zycie-studenckie/Harmonogram-roku-akademickiego-2020-2021 
