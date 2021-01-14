@@ -38,8 +38,9 @@ Wykład 15h + 15h laboratorium - termin środowy
 4. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/18-11-2020.mp4
 5. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/02-12-2020.mp4
 6. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/Mgr-DataBrics_3Soft.mp4
-7. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/23-12-2020-AML-Estera-Kot.mp4
-8. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/13-01-2021-AML-Well-Architected.mp4
+7. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/16-12-2020.mp4
+8. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/23-12-2020-AML-Estera-Kot.mp4
+9. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/13-01-2021-AML-Well-Architected.mp4
 
 
 
