@@ -41,6 +41,7 @@ Wykład 15h + 15h laboratorium - termin środowy
 7. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/16-12-2020.mp4
 8. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/23-12-2020-AML-Estera-Kot.mp4
 9. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/13-01-2021-AML-Well-Architected.mp4
+10. https://esterakotstreaming.blob.core.windows.net/azure-ai/advanced/20-01-2021-IOT-Piotr-Filarski.mp4
 
 
 
