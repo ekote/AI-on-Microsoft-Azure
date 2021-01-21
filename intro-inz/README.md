@@ -52,36 +52,9 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 
 10. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-14-01-2021-AML-VS-DBX-PART-2.mp4
 
-   
-
-#### Harmonogram - https://www.pw.edu.pl/Studenci/Zycie-studenckie/Harmonogram-roku-akademickiego-2020-2021 
-
-- 01.10.2020 r. (czwartek) – początek roku akademickiego, początek semestru zimowego
-
-- 01.10.2020 r. (czwartek) – uroczysta inauguracja roku akademickiego
-
-- 02.10.2020 r. (piątek) – początek zajęć semestru zimowego
-
-- 15.11.2020 r. (niedziela) – Dzień PW
-
-- 24.12.2020 r. (czwartek) – początek wakacji zimowych
-
-- 06.01.2021 r. (środa) – ostatni dzień wakacji zimowych
-
-- 29.01.2021 r. (piątek) - koniec zajęć semestru zimowego
-
-- **W semestrze zimowym:**
-
-  - 13.11.2020 r. (piątek) odbędą się zajęcia zgodnie z planem zajęć w środę;
-
-    
-    
-
 
 ### wejściówki/zejściówki  
-
 #### 1/2
-
 Scope:
 
 - [Cloud Concepts - Principles of cloud computing](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/)
@@ -108,7 +81,7 @@ Scope:
 
 Na wejściówkach/zejściówkach pytania będą całkowicie nawiązywać do treści z powyższych linków (bez niespodzianek).
 
-**Azure pass: https://bit.ly/2II4RX1 ** 
+~~**Azure pass: https://bit.ly/2II4RX1 **~~
 
 
 
