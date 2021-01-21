@@ -46,6 +46,12 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 
 7. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-07-01-2021-Analiza-strumieni-danych-1.mp4
 
+8. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-14-01-2021-Analiza-strumieni-danych-2.mp4
+
+9. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-14-01-2021-AML-VS-DBX-PART-1.mp4
+
+10. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-14-01-2021-AML-VS-DBX-PART-2.mp4
+
    
 
 #### Harmonogram - https://www.pw.edu.pl/Studenci/Zycie-studenckie/Harmonogram-roku-akademickiego-2020-2021 
