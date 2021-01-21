@@ -52,6 +52,8 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 
 10. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-14-01-2021-AML-VS-DBX-PART-2.mp4
 
+11. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-21-01-2021-COSMOSDB-Radek-Osinski.mp4
+
 
 ### wejściówki/zejściówki  
 #### 1/2
