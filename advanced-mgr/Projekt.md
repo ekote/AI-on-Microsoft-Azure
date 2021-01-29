@@ -6,11 +6,11 @@
 
 | Nr grupy | Project lead                    | Grupa   | Project name                                                 | Repo link | Check 1/2 | Check 2/2 |
 | -------- | ------------------------------- | ------- | ------------------------------------------------------------ | --------- | --------- | --------- |
-| 1        | Bartłomiej Królak               | alfa    | EY - Aspect based sentiment  analysis                        |           | x       |           |
+| 1        | Bartłomiej Królak               | alfa    | EY - Aspect based sentiment  analysis                        | https://github.com/ChoromanskiFilip/twitter-hashtag-sentiment          | x         |   x       |
 | 2        | Michał Kiełczykowski            | alfa    | EY - Aspect  based sentiment analysis                        | backend: https://github.com/kielczykowski/TweetsSentimentAnalysis frontend: https://github.com/kkorniszuk/ey-fe-dev/invitations          | x       |           |
-| 3        | Maciej Bany                     | beta    | Lingaro -  Serverless real-time document similarity engine using Python and Azure  Functions |           | X         |           |
-| 4        | Mateusz Wieczorek               | beta    | Lingaro -  Serverless real-time document similarity engine using Python and Azure  Functions |           | X         |           |
-| 5        | Mateusz Mizio                   | gamma   | Microsoft: AML  images labeling vs labeling in opensource    |           | x         |           |
+| 3        | Maciej Bany                     | beta    | Lingaro -  Serverless real-time document similarity engine using Python and Azure  Functions | https://github.com/BanyMaciej/Azure-Serverless-Document-Similarity          | X         |           |
+| 4        | Mateusz Wieczorek               | beta    | Lingaro -  Serverless real-time document similarity engine using Python and Azure  Functions | https://github.com/mati9725/DocumentSimilarityEngine | X         | X          |
+| 5        | Mateusz Mizio                   | gamma   | Microsoft: AML  images labeling vs labeling in opensource    | https://github.com/miziom/AI-Azure-Project-Image-Labeling          | x         |           |
 | 6        | Mateusz Ostrowski               | gamma   | Microsoft:  Custom Vision vs Own Model for object detection  |           | X         |           |
 | 7        | Magdalena Kuna                  | gamma   | Microsoft:  Custom Vision vs Own Model for object detection  |           | x         |           |
 | 8        | Adam Gawieńczuk                 | gamma   | Microsoft:  Databricks and MLFLOW                            |           | x         |           |
