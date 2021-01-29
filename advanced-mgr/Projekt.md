@@ -15,7 +15,7 @@
 | 7        | Magdalena Kuna                  | gamma   | Microsoft:  Custom Vision vs Own Model for object detection  |           | x         |           |
 | 8        | Adam Gawieńczuk                 | gamma   | Microsoft:  Databricks and MLFLOW                            |           | x         |           |
 | 9        | Bartosz Sulima i Paweł Makowski | gamma   | Microsoft: OCR  on Azure (Cognitive Services, Form Recognizer, OCR) |           | x         |           |
-| 10       | Błażej Szczepanowski            | epsilon | PKO                                                          |           | x       |           |
+| 10       | Błażej Szczepanowski            | epsilon | PKO                                                          | https://github.com/blazej1679/pkol          | x       |           |
 | 11       | Michał Chęciński                | delta   | Semantive -  Knowledge Mining with Cognitive Services        | https://github.com/michalchecinski/AI-on-Microsoft-Azure-knowledge-mining | X         |  |
 | 12       | Malwina Kubas                   | delta   | Semantive -  Knowledge Mining with Cognitive Services        | https://github.com/malwinq/AI-on-Azure-Semantive          | X         |           |
 
