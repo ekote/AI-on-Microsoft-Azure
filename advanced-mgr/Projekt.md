@@ -17,7 +17,7 @@
 | 9        | Bartosz Sulima i Paweł Makowski | gamma   | Microsoft: OCR  on Azure (Cognitive Services, Form Recognizer, OCR) |           | x         |           |
 | 10       | Błażej Szczepanowski            | epsilon | PKO                                                          |           | x       |           |
 | 11       | Michał Chęciński                | delta   | Semantive -  Knowledge Mining with Cognitive Services        | https://github.com/michalchecinski/AI-on-Microsoft-Azure-knowledge-mining | X         |  |
-| 12       | Malwina Kubas                   | delta   | Semantive -  Knowledge Mining with Cognitive Services        |           | X         |           |
+| 12       | Malwina Kubas                   | delta   | Semantive -  Knowledge Mining with Cognitive Services        | https://github.com/malwinq/AI-on-Azure-Semantive          | X         |           |
 
 ## Harmonogram i organizacja
 
