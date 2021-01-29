@@ -54,7 +54,7 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 
 11. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-21-01-2021-COSMOSDB-Radek-Osinski.mp4
 
-12. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-14-01-2021-Analiza-strumieni-danych-3.mp4
+12. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-21-01-2021-Analiza-strumieni-danych-3.mp4
 
 
 ### wejściówki/zejściówki  
