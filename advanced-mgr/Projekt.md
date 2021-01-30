@@ -13,7 +13,7 @@
 | 5        | Mateusz Mizio                   | gamma   | Microsoft: AML  images labeling vs labeling in opensource    | https://github.com/miziom/AI-Azure-Project-Image-Labeling          | x         |           |
 | 6        | Mateusz Ostrowski               | gamma   | Microsoft:  Custom Vision vs Own Model for object detection  |           | X         |           |
 | 7        | Magdalena Kuna                  | gamma   | Microsoft:  Custom Vision vs Own Model for object detection  |           | x         |           |
-| 8        | Adam Gawieńczuk                 | gamma   | Microsoft:  Databricks and MLFLOW                            |           | x         |           |
+| 8        | Adam Gawieńczuk                 | gamma   | Microsoft:  Databricks and MLFLOW                            | https://github.com/AdamGawienczuk/Databricks-and-MLFLOW | x         |           |
 | 9        | Bartosz Sulima i Paweł Makowski | gamma   | Microsoft: OCR  on Azure (Cognitive Services, Form Recognizer, OCR) |           | x         |           |
 | 10       | Błażej Szczepanowski            | epsilon | PKO                                                          |           | x       |           |
 | 11       | Michał Chęciński                | delta   | Semantive -  Knowledge Mining with Cognitive Services        | https://github.com/michalchecinski/AI-on-Microsoft-Azure-knowledge-mining | X         |  |
