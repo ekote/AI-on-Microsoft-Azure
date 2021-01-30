@@ -12,7 +12,7 @@
 | 4        | Mateusz Wieczorek               | beta    | Lingaro -  Serverless real-time document similarity engine using Python and Azure  Functions | https://github.com/mati9725/DocumentSimilarityEngine | X         | X          |
 | 5        | Mateusz Mizio                   | gamma   | Microsoft: AML  images labeling vs labeling in opensource    | https://github.com/miziom/AI-Azure-Project-Image-Labeling          | x         |           |
 | 6        | Mateusz Ostrowski               | gamma   | Microsoft:  Custom Vision vs Own Model for object detection  |           | X         |           |
-| 7        | Magdalena Kuna                  | gamma   | Microsoft:  Custom Vision vs Own Model for object detection  |           | x         |           |
+| 7        | Magdalena Kuna                  | gamma   | Microsoft:  Custom Vision vs Own Model for object detection  | https://github.com/ProjektCustomVisionKL/projekt-custom-vision-kl           | x         |           |
 | 8        | Adam Gawieńczuk                 | gamma   | Microsoft:  Databricks and MLFLOW                            | https://github.com/AdamGawienczuk/Databricks-and-MLFLOW | x         |           |
 | 9        | Bartosz Sulima i Paweł Makowski | gamma   | Microsoft: OCR  on Azure (Cognitive Services, Form Recognizer, OCR) |           | x         |           |
 | 10       | Błażej Szczepanowski            | epsilon | PKO                                                          | https://github.com/blazej1679/pkol          | x       |           |
