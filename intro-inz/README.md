@@ -30,32 +30,7 @@ Wykład 15h + 15h projekt zespołowy - termin czwartkowy
 | 13   | 21.01 | P6 <br> <br> Radoslaw Osinski - Cosmosdb - intro i demo 16:15-17:00 <br> <br> **Special guests!!!!** <br/> Aleksandra Jaworska (CSA at Microsoft) Seria mini wykładów poświęconych strumieniom danych/szeregom czasowym i wykorzystaniu serwisów ADX i AML.  <br/><br/> 3/3 od 17:00: Zaawansowane przypadki użycia serwisu Azure Data Explorer i Machine Learning |                                                              |
 | 14   | 28.01 | P7 - prezentacja projektów                                   |                                                              |
 |      | 28.01 | Wystawienie ocen                                             |                                                              |
-#### Nagrania
-
-1. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/15-10-2020.mkv
-
-2. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/29-10-2020.mp4
-
-3. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/05-11-2020.mp4
-
-4. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/12-11-2020.mp4
-
-5. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/10-12-2020.mp4
-
-6. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-07-01-2021-AML-Pamela-Krzypkowska.mp4
-
-7. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-07-01-2021-Analiza-strumieni-danych-1.mp4
-
-8. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-14-01-2021-Analiza-strumieni-danych-2.mp4
-
-9. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-14-01-2021-AML-VS-DBX-PART-1.mp4
-
-10. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-14-01-2021-AML-VS-DBX-PART-2.mp4
-
-11. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-21-01-2021-COSMOSDB-Radek-Osinski.mp4
-
-12. https://esterakotstreaming.blob.core.windows.net/azure-ai/intro/INZ-21-01-2021-Analiza-strumieni-danych-3.mp4
-
+\
 
 ### wejściówki/zejściówki  
 #### 1/2
